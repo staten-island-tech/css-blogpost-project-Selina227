@@ -12,10 +12,10 @@
 }
 
 .iceland {
-    background-color: rgb(73, 115, 242);
+    background-color: rgb(104, 142, 255);
     width: 80vw;
     height: 50vw;
-    padding: 50px;
+    padding: 70px;
     text-align: center;
     font-size: 45px;
     margin: 100px auto;
@@ -23,10 +23,10 @@
 }
 
 .wales {
-    background-color: rgb(73, 115, 242);
+    background-color: rgb(104, 142, 255);
     width: 80vw;
     height: 50vw;
-    padding: 50px;
+    padding: 70px;
     text-align: center;
     font-size: 45px;
     margin: 100px auto;
@@ -34,13 +34,19 @@
 }
 
 .zimbabwe {
-    background-color: rgb(73, 115, 242);
+    background-color: rgb(104, 142, 255);
     width: 80vw;
     height: 50vw;
-    padding: 50px;
+    padding: 70px;
     text-align: center;
     font-size: 45px;
     margin: 100px auto;
     border-radius: 25px
 }
+
+.iceland2 {
+    width: 30vw;
+    margin: 0 auto;
+    padding: 25px
+  }
    
