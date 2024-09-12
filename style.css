@@ -1,15 +1,46 @@
+* {
+    background-color:rgb(145, 174, 220)
+}
 .body {
-    background-color: red;
+    background-image: url(img/Vacation.jpg);
+    height: 5vw;
+    width: auto;
+    padding: 250px;
     text-align: center;
-    font-size: 64px;
+    font-size: 90px;
+    color:white
 }
 
 .iceland {
+    background-color: rgb(73, 115, 242);
+    width: 80vw;
+    height: 50vw;
+    padding: 50px;
     text-align: center;
-    font-size: 32px;
+    font-size: 45px;
+    margin: 100px auto;
+    border-radius: 25px 
 }
 
 .wales {
+    background-color: rgb(73, 115, 242);
+    width: 80vw;
+    height: 50vw;
+    padding: 50px;
     text-align: center;
-    font-size: 32px;
+    font-size: 45px;
+    margin: 100px auto;
+    border-radius: 25px
 }
+
+.zimbabwe {
+    background-color: rgb(73, 115, 242);
+    width: 80vw;
+    height: 50vw;
+    padding: 50px;
+    text-align: center;
+    font-size: 45px;
+    margin: 100px auto;
+    border-radius: 25px
+}
+   
